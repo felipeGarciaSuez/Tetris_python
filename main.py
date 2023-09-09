@@ -15,7 +15,7 @@ clock = pygame.time.Clock()
 # Importamos la classe Grid y la guardamos en la variable (Son todas las casillas del juego)
 game_grid = Grid()
 
-block = LBlock()
+block = TBlock()
 
 while True:
     # Declaramos un for para cerrar el juego
